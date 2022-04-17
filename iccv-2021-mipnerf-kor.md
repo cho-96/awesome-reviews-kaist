@@ -85,6 +85,5 @@ Martin-Brualla et al.(2020)이 제안한 NeRF-W는 모델을 세 개의 모듈�
 * Affiliation \(KAIST AI\)
 * \(optional\) I am eager to learn new things.
 * Contact information \(gkqkemwh@kaist.ac.kr\)
-* **...**
 
 
